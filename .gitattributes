@@ -1,0 +1,6 @@
+# --- Text and line endings ---
+# Force all text files to use LF line endings
+* text=auto eol=lf
+
+# --- Markdown / documentation ---
+*.md text
