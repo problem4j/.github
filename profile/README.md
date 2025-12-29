@@ -1,3 +1,5 @@
+![Problem4J Banner](./img/banner.jpeg)
+
 Designing clear and consistent error responses in a REST API is often harder than it looks. Without a shared standard,
 each application ends up inventing its own ad-hoc format, which quickly leads to inconsistency and confusion.
 [RFC 7807 - Problem Details for HTTP APIs][rfc7807] solves this by defining a simple, extensible JSON structure for
