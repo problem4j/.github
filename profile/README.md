@@ -1,4 +1,4 @@
-![Problem4J Banner](./img/banner.jpeg)
+[![Problem4J Banner](https://raw.githubusercontent.com/problem4j/.github/main/profile/img/banner.jpeg)](https://problem4j.github.io)
 
 Designing clear and consistent error responses in a REST API is often harder than it looks. Without a shared standard,
 each application ends up inventing its own ad-hoc format, which quickly leads to inconsistency and confusion.
